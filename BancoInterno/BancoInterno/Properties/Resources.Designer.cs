@@ -113,9 +113,29 @@ namespace BancoInterno.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap combo3 {
+            get {
+                object obj = ResourceManager.GetObject("combo3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap desconto {
             get {
                 object obj = ResourceManager.GetObject("desconto", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap desconto2 {
+            get {
+                object obj = ResourceManager.GetObject("desconto2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

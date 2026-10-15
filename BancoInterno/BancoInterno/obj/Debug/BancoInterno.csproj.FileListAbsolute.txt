@@ -9,3 +9,14 @@ C:\Users\DB\Desktop\BancoInterno\BancoInterno\obj\Debug\BancoInterno.csproj.Core
 C:\Users\DB\Desktop\BancoInterno\BancoInterno\obj\Debug\BancoInterno.exe
 C:\Users\DB\Desktop\BancoInterno\BancoInterno\obj\Debug\BancoInterno.pdb
 C:\Users\DB\Desktop\BancoInterno\BancoInterno\obj\Debug\BancoInterno.exe.config
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\bin\Debug\BancoInterno.exe.config
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\bin\Debug\BancoInterno.exe
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\bin\Debug\BancoInterno.pdb
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\obj\Debug\BancoInterno.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\obj\Debug\BancoInterno.exe.config
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\obj\Debug\BancoInterno.Form1.resources
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\obj\Debug\BancoInterno.Properties.Resources.resources
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\obj\Debug\BancoInterno.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\obj\Debug\BancoInterno.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\obj\Debug\BancoInterno.exe
+C:\Users\DB\Desktop\Banco_Interno\BancoInterno\BancoInterno\obj\Debug\BancoInterno.pdb

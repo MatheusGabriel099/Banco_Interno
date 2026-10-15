@@ -121,6 +121,9 @@
   <data name="background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="combo3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\combo3.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="combo_bigmac" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\combo bigmac.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -135,6 +138,9 @@
   </data>
   <data name="desconto" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\desconto.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="desconto2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\desconto2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="French_Fries_Food_GIF_by_McDonald_s_CZSK" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\French Fries Food GIF by McDonald's CZSK.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
